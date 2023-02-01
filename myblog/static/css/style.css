@@ -66,3 +66,36 @@ textarea { overflow:auto; }
 #footer { font-family: Arial, sans-serif; font-size: 11px; line-height: 14px; color: #7f7f7f; padding: 18px 27px 20px 38px; }
 #footer a{ color: #7f7f7f; }
 
+.form-comment {
+    font-size: 18px;
+}
+
+.form-comment label {
+    margin: 10px 10px;
+}
+
+.form-comment input {
+    border-radius: 5px;
+    padding: 10px;
+    height: 50px;
+    weight: 2500px;
+}
+
+.form-comment textarea {
+    border-radius: 10px;
+    padding: 15px;
+    height: 250px;
+    weight: 100%;
+    resize: vertical;
+}
+
+.form-comment div {
+    margin: 10px;
+}
+
+.view-comment {
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
